@@ -1,0 +1,18 @@
+.link {
+  text-decoration: none;
+  color: inherit;
+}
+
+.postTitle {
+  margin: 2rem 0 .1rem;
+}
+
+.postByline {
+  margin: .1rem 0 .1rem;
+  color: #999999
+}
+
+.postDescription {
+  margin-top: .6rem;
+}
+

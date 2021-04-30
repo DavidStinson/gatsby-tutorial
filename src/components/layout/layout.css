@@ -1,0 +1,22 @@
+h1, h2, h3, h4, h5, h6, h7 {
+  font-family: Raleway;
+}
+
+body {
+  font-family: Fira Sans;
+  font-size: 1.1rem;
+  margin: 0;
+}
+
+#page-container {
+  margin: 3rem auto 0; 
+  max-width: 850px; 
+  padding: 0 1rem;
+  display: flex;
+  flex-direction: column;
+  min-height: calc(100vh - 3rem);
+}
+
+#page-container > main {
+  flex-grow: 1;
+}
